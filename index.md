@@ -17,6 +17,6 @@ Prior to this summer, I have had no experience with Github, no experince with pr
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1iGL2M6sNxSxQX8pT0p-c4G_TWYBwuG15LA0ltP4DJpE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## United States Deaths Due to Covid-19, Pnemonia, and Influenza During the Week of July 17, 2022 
-![Chartbuilder](file:///Users/janeburke/Desktop/USDeaths07:17:22.png)
+![Chartbuilder](https://user-images.githubusercontent.com/109491577/181867482-05e37a97-57ce-493c-9d7b-fa5a652a2db9.png)
 
 
